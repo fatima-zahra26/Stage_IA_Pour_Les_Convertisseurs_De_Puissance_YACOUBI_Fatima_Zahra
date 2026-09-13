@@ -18,7 +18,7 @@ La méthode proposée combine :
 ## **Conditions de fonctionnement**
 
 | **Paramètre** | **Valeur** |
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | Tension d'entrée | 240 V – 300 V |
 | Tension nominale | 270 V |
 | Tension de sortie de référence | 28 V |
