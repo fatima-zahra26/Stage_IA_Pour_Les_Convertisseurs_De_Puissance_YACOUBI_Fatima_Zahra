@@ -27,24 +27,44 @@ La méthode proposée combine :
 
 ## **Structure du dépôt**
 .
+
 ├── data/
+
 │   └── dataset.csv
+
 │
+
 ├── ltspice/
+
 │   └── LLC_converter.asc
+
 │
+
 ├── simulation/
+
 │   ├── variation_tension_fréquence.py
+
 │   ├── créationç_dataset.py
+
 │   └── séparation_bases_train_validation_train.py
+
 │
+
 ├── surrogate_model/
+
 │   ├── surrogate_model.py
+
 │   ├── model.pth
+
 │   ├── scaler_x.pkl
+
 │   └── scaler_y.pkl
+
 │
+
 ├── reinforcement_learning/
+
 │   ├── SAC.py
+
 └── README.md
 
