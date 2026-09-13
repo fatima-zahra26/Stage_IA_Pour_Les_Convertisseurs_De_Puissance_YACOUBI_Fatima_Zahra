@@ -18,9 +18,9 @@ La méthode proposée combine :
 ## **Conditions de fonctionnement**
 
 | **Paramètre** | **Valeur** |
-| --- | --- | --- |
-| Tension d'entrée | 240 V – 300 V |
-| Tension nominale | 270 V |
-| Tension de sortie de référence | 28 V |
-| Puissance nominale | 28 V |
-| Fréquence de commutation | 140 – 217 kHz |
+| :--- | :--- | :--- |
+| `Tension d'entrée` | 240 V – 300 V |
+| `Tension nominale` | 270 V |
+| `Tension de sortie de référence` | 28 V |
+| `Puissance nominale` | 28 V |
+| `Fréquence de commutation` | 140 – 217 kHz |
