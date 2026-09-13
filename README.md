@@ -39,11 +39,13 @@ La méthode proposée combine :
 │   └── dataset.csv
 
 │
+
 ├── ltspice/
 
 │   └── LLC_converter.asc
 
 │
+
 ├── simulation/
 
 │   ├── variation_tension_fréquence.py
@@ -53,6 +55,7 @@ La méthode proposée combine :
 │   └── séparation_bases_train_validation_train.py
 
 │
+
 ├── surrogate_model/
 
 │   ├── surrogate_model.py
@@ -64,6 +67,7 @@ La méthode proposée combine :
 │   └── scaler_y.pkl
 
 │
+
 ├── reinforcement_learning/
 
 │   ├── SAC.py
