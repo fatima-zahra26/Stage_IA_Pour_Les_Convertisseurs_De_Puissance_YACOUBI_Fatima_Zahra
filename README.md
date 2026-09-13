@@ -1,5 +1,5 @@
 # Stage_IA_Pour_Les_Convertisseurs_De_Puissance_YACOUBI_Fatima_Zahra
-##**Présentation**
+## **Présentation**
 Ce dépôt contient les travaux réalisés dans le cadre de mon stage de fin d’études portant sur le développement d’une stratégie de contrôle basée sur l’intelligence artificielle pour un convertisseur DC-DC résonant LLC destiné à une application aéronautique.
 
 L'objectif est de développer un contrôleur capable d'adapter automatiquement la fréquence de commutation afin de maintenir une tension de sortie de 28 V malgré les variations de la tension d'entrée.
