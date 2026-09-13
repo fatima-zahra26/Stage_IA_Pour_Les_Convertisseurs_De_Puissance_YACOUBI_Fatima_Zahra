@@ -18,34 +18,54 @@ La méthode proposée combine :
 ## **Conditions de fonctionnement**
 
 | **Paramètre** | **Valeur** |
+
 | :--- | :--- | :--- |
+
 | `Tension d'entrée` | 240 V – 300 V |
+
 | `Tension nominale` | 270 V |
+
 | `Tension de sortie de référence` | 28 V |
+
 | `Puissance nominale` | 28 V |
+
 | `Fréquence de commutation` | 140 – 217 kHz |
 
 ## **Structure du dépôt**
 .
 
 ├── data/
+
 │   └── dataset.csv
+
 │
 ├── ltspice/
+
 │   └── LLC_converter.asc
+
 │
 ├── simulation/
+
 │   ├── variation_tension_fréquence.py
+
 │   ├── créationç_dataset.py
+
 │   └── séparation_bases_train_validation_train.py
+
 │
 ├── surrogate_model/
+
 │   ├── surrogate_model.py
+
 │   ├── model.pth
+
 │   ├── scaler_x.pkl
+
 │   └── scaler_y.pkl
+
 │
 ├── reinforcement_learning/
+
 │   ├── SAC.py
 
 └── README.md
@@ -99,7 +119,7 @@ Les tests réalisés montrent que l'agent SAC est capable :
 ### **Soft Actor-Critic**
 * Article sur SAC : https://proceedings.mlr.press/v80/haarnoja18b.html
 * Implémentation : https://github.com/haarnoja/sac
-### ***Stable-Baselines3***
+### **Stable-Baselines3**
 * Dépôt GitHub officiel : https://github.com/DLR-RM/stable-baselines3
 * Implémentation SAC : https://github.com/DLR-RM/stable-baselines3/tree/master/stable_baselines3/sac
 * Code source  de SAC : https://github.com/DLR-RM/stable-baselines3/blob/master/stable_baselines3/sac/sac.py 
