@@ -50,7 +50,7 @@ La méthode proposée combine :
 
 │   ├── variation_tension_fréquence.py
 
-│   ├── créationç_dataset.py
+│   ├── création_dataset.py
 
 │   └── séparation_bases_train_validation_train.py
 
