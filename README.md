@@ -9,3 +9,9 @@ La méthode proposée combine :
 * l'automatisation des simulations avec Python ;
 * le développement d'un modèle de substitution basé sur un réseau de neurones multicouche (MLP) ;
 * l'apprentissage par renforcement avec l'algorithme Soft Actor-Critic (SAC).
+
+## **Workflow du projet**
+![Schéma du projet](Workflow du projet.png)
+<p align="center">
+  <img src="Workflow du projet.png" alt=Schéma du projet" witdth="600">
+</p>
