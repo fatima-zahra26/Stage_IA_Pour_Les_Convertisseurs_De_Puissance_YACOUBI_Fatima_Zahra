@@ -120,6 +120,10 @@ Les tests réalisés montrent que l'agent SAC est capable :
   
 ## **Références**
 
+### *MLP*
+* PyTorch — Neural Networks (torch.nn) : documentation générale pour la construction de réseaux de neurones : https://docs.pytorch.org/docs/2.14/nn.html 
+* La normalisation de tes données en utilisant StandardScaler : https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+
 ### **Soft Actor-Critic**
 * Article sur SAC : https://proceedings.mlr.press/v80/haarnoja18b.html
 * Implémentation : https://github.com/haarnoja/sac
